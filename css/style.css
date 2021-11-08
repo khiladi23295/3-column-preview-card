@@ -1,0 +1,53 @@
+#columns{
+  padding: 7% 19%;
+}
+
+img{
+  width: 30%;
+  margin: 15% 10%;
+}
+
+h2{
+  padding-left: 8%;
+  color: hsl(0, 0%, 95%);
+  font-family: 'Big Shoulders Display', cursive;
+  font-weight: 700;
+}
+
+p{
+  color: hsla(0, 0%, 100%, 0.75);
+  padding: 11% 8% 25%;
+  font-family: 'Lexend Deca', sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+}
+
+button{
+  font-family: 'Big Shoulders Display', cursive;;
+  font-weight: normal;
+  margin: 0 0 8px 20px;
+}
+
+.card1{
+  background-color: hsl(31, 77%, 52%);
+}
+
+.card2{
+  background-color: hsl(184, 100%, 22%);
+}
+
+.card3{
+  background-color: hsl(179, 100%, 13%);
+}
+
+.btn1:hover{
+  background-color: hsl(31, 77%, 52%);
+}
+
+.btn2:hover{
+  background-color: hsl(184, 100%, 22%);
+}
+
+.btn3:hover{
+  background-color: hsl(179, 100%, 13%);
+}
